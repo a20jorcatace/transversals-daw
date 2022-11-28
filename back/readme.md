@@ -6,4 +6,7 @@ Típicament:
  -  SQL DML
  -  Plugins o confguracions del editors o les eines
  -  altres dades d'interés
+ -  dockers per aixecar entorns de prova..
  -  ...
+
+NO HA DE CONTENIR EL PHP de l'aplicació
