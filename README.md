@@ -11,6 +11,7 @@ Un cop comenceu heu de canviar aquesta explicació amb la corresponent al vostre
  * Nom dels integrants
  * Nom del projecte
  * Petita descripció
- * Adreça del prototip del Penpot
+ * Adreça del gestor de tasques (taiga, jira, trello...)
+ * Adreça del prototip gràfic del projecte (Penpot, figma, moqups...)
  * URL de producció (quan la tingueu)
- * Estat: (explicació de en quin punt està)
+ * Estat: (explicació d'en quin punt està)
